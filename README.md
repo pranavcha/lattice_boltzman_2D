@@ -1,2 +1,5 @@
 # 2D Flow Past a Cylinder (Isothermal Lattice-Boltzmann)
-<video src = 'https://github.com/pranavcha/lattice_boltzman_2D/blob/2fbb4722bdd5239778620fdeeb4050a6ff712513/vorticity_LB_10000_0.6_100.mp4' width = 400\>
+
+
+https://github.com/pranavcha/lattice_boltzman_2D/assets/92763625/792dd5df-2f1d-4edc-a93a-69b31cfb56a2
+
