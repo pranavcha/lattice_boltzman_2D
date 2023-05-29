@@ -1,2 +1,1 @@
-# lattice_boltzman_2D
-Lattice Boltzmann Flow around a cylinder.
+# 2D Flow Past a Cylinder (Isothermal Lattice-Boltzmann)
